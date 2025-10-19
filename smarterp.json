@@ -1,0 +1,8 @@
+{
+  "description": "SmartERP – Crew Management System",
+  "domain": "is-a.dev",
+  "subdomain": "smarterp",
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  }
+}
